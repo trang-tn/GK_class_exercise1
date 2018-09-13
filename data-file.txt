@@ -1,0 +1,1 @@
+This text file is written for Exercise #1 of the workshop Introduction to Version Control with Git, GitKraken, and Github. 

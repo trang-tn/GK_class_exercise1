@@ -1,1 +1,4 @@
 This text file is written for Exercise #1 of the workshop Introduction to Version Control with Git, GitKraken, and Github. 
+
+Push the changes to the remote repo on github.com.
+"Pull" the changes to the local repo.
